@@ -1,0 +1,217 @@
+#EXTM3U
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a湖南衛視 HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a東方衛視 HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a江蘇衛視 HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png",a浙江衛視HD1
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png",a浙江衛視HD2
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FILX
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",byuTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",日本NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",日本Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png",韓國-ktv
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458422731.png",韓國 CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png",韓國 KBS 1
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg",韓國Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",韓國Arirang South Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png",香港tvb
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png",香港tvb財經
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰中文HD
+http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰中文HD1
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰資訊
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰香港
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰美洲
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台灣-民視HD
+http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream2.m3u8?token=_kDBb7RQRTh7AkDbhdBuSQ&expires=1547131667&refer=
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台灣-中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台湾-壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台灣-壹新闻2
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳門Macau
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",環球電影頻道
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",探索科学
+http://122.155.180.8:5021/live/457
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,Fashion TV HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,卡通MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,體育ASTRO SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Astro
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",CNN
+http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",CINEMAX
+http://87.246.0.155:5286/tv_Cinemax_2
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",央視CCTV-1综合
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",央視CCTV-1綜合HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/C2JSKDXTB.png",央視CCTV-2财经
+http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",央視CCTV-3综艺
+http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",央視CCTV-3文藝HD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/CJSKDXTB.png",央視CCTV-4中文国际
+http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/C5JSKDXTB.png,央視CCTV-5体育
+http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",央視CCTV-5+体育赛事
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",央視CCTV-5+體育直播HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",央視CCTV-6电影
+http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",央視CCTV-6電影HD
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",央視CCTV-8電視劇HD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="cctv-7" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/C7JSKDXTB.png",央視CCTV-7军事 农业
+http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
+#EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",央視CCTV-8电视剧
+http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8
+#EXTINF:-1 tvg-id="CCTV-news" tvg-logo=http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/C9JSKDXTB.png",央視CCTV-9纪录
+http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
+#EXTINF:-1 tvg-id="cctv-10" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/C10JSKDXTB.png",央視CCTV-10科教
+http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10
+#EXTINF:-1 tvg-id="cctv-11" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/C11JSKDXTB.png",央視CCTV-11戏曲
+http://183.207.248.71:80/cntv/live1/CCTV-11/cctv-11
+#EXTINF:-1 tvg-id="cctv-12" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/C12JSKDXTB.png",央視CCTV-12社会与法
+http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
+#EXTINF:-1 tvg-id="cctv-13" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/C13JSKDXTB.png",央視CCTV-13新闻
+http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
+#EXTINF:-1 tvg-id="cctv-14" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/C14JSKDXTB.png",央視CCTV-14少儿
+http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
+#EXTINF:-1 tvg-id="cctv-15" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/C15JSKDXTB.png",央視CCTV-15音乐
+http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",央視CHC高清电影HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png“,央視CHC高清電影HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京衛視 HD
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京文藝 HD
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京體育 HD
+http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京紀實 HD
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,安徽衛視 HD
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,黑龍江衛視 HD
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,深圳衛視 HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,廣東衛視 HD
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,天津衛視 HD
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,湖北衛視 HD
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,江西衛視
+http://103.242.13.90:5555/udp/239.4.1.29:10000
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,河南衛視
+http://103.242.13.90:5555/udp/239.4.1.28:10000
