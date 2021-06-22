@@ -4,7 +4,7 @@ CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 香港
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-TVB明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB星河粤语,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河国语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
