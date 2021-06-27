@@ -1,4 +1,4 @@
-X直播電視台 youtube
+X直播電視台
 香港©頻道,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
@@ -48,26 +48,26 @@ tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fc
 民视,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
 民视,rtmp://59.124.75.130/sat/tv051
 公视,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 TVBS欢乐台,p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af.ts#p2p://fccseuro.pvbox.live:18912/5c2dd759000397a1f785f6a7f64171ac.ts#p2p://fccseuro.pvbox.live:18912/5c72488a000a56b71d52e3a07060345e.ts#p2p://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af.ts
 TVBS欢乐台,rtmp://59.124.75.130/sat/tv421
 TVBS欢乐台,rtmp://59.124.75.130:1935/sat/tv421
-中天综合台,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts
-中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
+
+中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
+中天综合台,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 三立都会台,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
 纬来育乐台,rtmp://59.124.75.130/sat/tv701
 纬来育乐台,rtmp://59.124.75.130/sat/tv702
 纬来育乐台,rtmp://59.124.75.130:1935/sat/tv701
+
+纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 纬来日本台,p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts#p2p://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#p2p://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
 纬来日本台,rtmp://59.124.75.130:1935/sat/tv521
 纬来日本台,rtmp://59.124.75.130/sat/tv522
 国兴卫视,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts
 卫视中文台,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
-BBCEarth,http://198.16.106.62:8278/streams/d/bbcearth_zero/playlist.m3u8
 BBCEarth,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
-BBCLifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
-国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts
-国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
+BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 国家地理悠人频道,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts#p2p://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts动物星球,p2p://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts#p2p://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
 Discovery,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f.ts#p2p://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f.ts
 Discovery科学,p2p://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43.ts#p2p://fccseuro.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43.ts
@@ -76,6 +76,16 @@ FashionTV,p2p://fccsovh.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts#p2p
 东森超视,rtmp://59.124.75.130/sat/tv771
 美食星球,p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 FoodNetwork美食台,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
+Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+BBC Earthᴴᴰ,http://198.16.106.62:8278/streams/d/bbcearthᴴᴰ_zero/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 Astro AECᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 Astro 欢喜ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 双星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -109,6 +119,7 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 e:18912/5b14096a000a35a138bfced0badeee87
 天映频道,p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts#p2p://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts#p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
 靖天电影台,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts#p2p://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 纬来电影台,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
 HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
@@ -120,26 +131,13 @@ CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
 CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育ᴴᴰ2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-体育4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-体育5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-体育6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-超级体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-超级体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-超级体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 博斯魅力网,rtmp://59.124.75.130/sat/md042
 爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 爱尔达体育2,rtmp://59.124.75.130/sat/md011
+愛爾達體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 纬来体育台,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-纬来体育台,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 纬来体育台,rtmp://59.124.75.130/sat/tv721
 纬来体育台,rtmp://59.124.75.130:1935/sat/tv721
 FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
@@ -151,8 +149,7 @@ ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#p2p://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
-FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
-FOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
+FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.tsFOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
 WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 海外©頻道,#genre#
