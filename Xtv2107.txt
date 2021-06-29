@@ -50,9 +50,9 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 台灣©頻道,#genre#
-888999,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
-Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e
-人间卫视,p2p://ns2.hellotvvod.com:9906/4c76fd958c484653a0e76804adc6f031 
+ELTA影劇15,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
+ELTA影劇7,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e
+ELTA影劇16,p2p://ns2.hellotvvod.com:9906/4c76fd958c484653a0e76804adc6f031 
 台视1,p2p://ns2.hellotvvod.com:9906/615d8fad0c2247a99b663a9d652a3be0
 ELTA影劇1,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b 
 ELTA綜合1,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
