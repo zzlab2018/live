@@ -181,8 +181,8 @@ CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV-5HD,rtmp://58.200.131.2:1935/livetv/cctv5hd
-CCTV5+HD,rtmp://58.200.131.2:1935/livetv/cctv5phd
+CCTV5,rtmp://58.200.131.2:1935/livetv/cctv5hd
+CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
@@ -197,13 +197,12 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 纬来体育台,rtmp://59.124.75.130/sat/tv721
 纬来体育台,rtmp://59.124.75.130:1935/sat/tv721
-Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-FoxSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-FoxSports2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-FOXSports,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
 FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 FOXSports2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 FOXSports3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 ASTRO SPORT 1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
