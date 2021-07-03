@@ -1,10 +1,10 @@
-X直播電視台
+X直播电视台 油管频道
 香港☒頻道,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
@@ -52,7 +52,7 @@ ViuTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p:/
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
@@ -187,16 +187,15 @@ CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
-博斯魅力网,rtmp://59.124.75.130/sat/md042
 爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-爱尔达体育2,rtmp://59.124.75.130/sat/md011
 愛爾達體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 纬来体育台,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-纬来体育台,rtmp://59.124.75.130/sat/tv721
-纬来体育台,rtmp://59.124.75.130:1935/sat/tv721
+
+Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 
 FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 FOXSports2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
@@ -222,16 +221,6 @@ NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-体育4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-体育5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-体育6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-超级体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-超级体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-超级体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-
 
 海外©頻道,#genre#
 HGTV50,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
@@ -321,148 +310,6 @@ MTVSpankinNew,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-ceshi頻道,#genre#
-Rajawali_TV,tvbus://6dJGWeKmPXc38kARAW2n3xn1ZrfhhsBEjkxtyFTGhUjLVAJohDTea38N25JQ6
-HBO Hits,tvbus://5ssqUAyqhEVjtqecZoLxBPxLziDmQGtDzGGjBqPdJxodN6auStKR4uU6t44C6
-HBO Family,tvbus://5KVqLdyQoeZ7eC5YDD9KcncZCv8ra9LE39Z6B2yQQ6tmvR4ygDgfSLktQQoBY
-HBO Signature,tvbus://5ga6mpRoDeYUf76t9BrkFqAEPuMW9nK8WRzm4GTWHYrMqaVf9hVQAR44FLZAY
-TLC,tvbus://5tPdUqjvz49gip2aJVZSKhkmUq4R6DnQdV3oAsdXVHyoA4egfj1MZba4pqMEe
-AFC,tvbus://5bt8GdWfz7CoBFt6bKyk8V1sa5QTTH8sSWty9bt9hcWQ2ERWovGiH284MWRbX
-LifeTime,tvbus://5gaNcVq2rh644s1JWSdhTS8EiABmUsq1vannXKfiCatMHBBNTzjgm38up1PZA
-Warner TV,tvbus://6PojYEAsLLARcQSHri4j7YQi99uMZaTPyBdvB5ZQT4cAdninLbDSdzCFEppWt
-DAAI-TV,tvbus://6Z33ainxXJd3tsoBC7w2zVE34AHLVeFDZZj4PZz5pcQn2oFEy3w1rcty57Ktt
-Bali-TV,tvbus://6PVEgJsnj9S6Atc9TVkU7CitoS6Ef5i3tid3U22Gm627WtfpEoxi9ovyLW3zX
-Jak-TV,tvbus://6cc7yZ1PCAPx8ZtNAo6LQHkKog3FpFFoCEB7LcrzsDUrgUz9hSvQvoGwHJJAT
-
-TSN_1,tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r
-TSN_2,tvbus://6TQtzYHYn7VZ1Eknw2gNMySaHgPbBR5P1nVnqQWSUqV8b9uFsK1tYvcL6CSAD
-TSN_3,tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
-TSN_4,tvbus://5Wfer819KXEoeZeeZncVeqMXEevvwxs2MQ6QZWX4SEphWHH8qanWgEncfaPJJ
-TSN_5,tvbus://62H3vuRrAqZiqT4zzZBHFR9w89mzR5YkmQoASr32owv4PzjsUbrwMHahixDH8
-新动力600news,tvbus://5jYymnbuNFPoHM9MVy6rRqgGakMhZnNKQUQS7ubW57HxmwRkKngHpXSS4UTLz
-HGTV,tvbus://6ANqMvY4d38nep7nc1mdJVCdFmXy9Yr7isqWDyAH2wBEi9BsYu51mm5kPjjHV
-TVB1,tvbus://5YeFgSMwFUjFkcBXPjNWYRFMi11BDSh1DbG9XmAgqQ5mKHo2MzNtd8aPoQZg1
-新时代1,tvbus://7Hp3ztaQuwqZPm2fJJDZg7aJMemgze63Kk2WykYyPenRNM6keC
-cp24,tvbus://6bJaU3m9UZULA1w4cbPu1C5y5FkoGDqsGZp3i8zAjNiypZ1PqaWUAgEFr1Qn9
-NOWTVHD,tvbus://5kGBTYcpcvpsaR38XS8eF9unJCn792pGR5ARKB68BYQhKvASmXV5nu2HXsAQk
-TVBHDUSA,tvbus://6f17tQ6mnVU1tK1MAPxxc7PN7zzFSnk5wxCXM2hyKwpjjFSXVWfYjFJUNYVvF
-NBA,tvbus://5ZuVP5JBftNYwXFDCZGa1sSnF5zvMr3SBfmSdc3dLF3Sw9zEJkeddMJ7Dneod
-新时代2,tvbus://5rT41JtvsAB93wohNk4fzSKCQVmkUES6Af4XSW9ro5NVJbAN6GZmYnyZxD33c
-HBOCA,tvbus://5ufA9DQRFjPRY1xB3d8ZjeXge4gKy6fZUg8MwoaWp3xiFEymegc18zjqttA3q
-美国中文电视,tvbus://5joE3o1aFkXMWuUPDGZkNJ5ipqnh2wWXnvkpnwudNrc9wnDH3pMcxHjHgutEV
-FoxWest,tvbus://5L4qG6pqMqc2FRkK2wUJYJF6JhAqxgeXG8ftiNa4xk5FyeBLvjKW76agRsspv
-Tnt,tvbus://5i5hnuCg8xZUCgZpU7LR47vNAB7eXmsLsxc3QcKXkUdTyfEkYzpd3vWuFqgHD
-CbcNews,tvbus://66hXtpJAkqdfjjvcptVuaYcxuMsn2BUALFJoMPg5g2QaGXD2qKQd2TjjD2WcB
-Eurosp2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
-Espn,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
-Eurosp1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
-BBC News,tvbus://5vpCNErf1u2vJFowgkbDWz7HatmnBQCLx5UM6ATeoHjy4xZWHg7FNzAHtHqrL
-CBSsprotsHD,tvbus://6N5ymz2zwvUxta9xxW9F9HWJ2X9iY3p8Svy2E8p5Hj4FHgXFJk6D3EMGS6Z22
-NBCSportsHD,tvbus://5TxJowEyn2YeQ1R54jkEJh61B5zzSZkbYm2NccPWqtZMrvEPBTcVkprTdKF1S
-HBO2,tvbus://6YugJJ4yB1axwMGjjQSsvbp4cfYmxRYovVKPhMEfp2yLqpFvWcvxJUDq6jjvi
-MLB,tvbus://5mchETxU6eT6jS4Hckoyfb5X5XnptFFq9Xb6nsVPkp2EEQBnRw5E4m8MNsVJV
-Golf,tvbus://6efXUoXX9UJAfrMFtwS5X311gnjCj8Gh8cF8EJ6A48K9WBqfZLVW6TFz8fBpd
-CNBC,tvbus://5XwaExme9uSiCFkcyNvCDyoaag8tXvixpQQi5Ey3gj7P8zAdZN3yCx6rQX19A
-CNN-HD,tvbus://6cRsW2tkGMsByXvTtM6NxVfMr5DJnMwFnes1W5TBerwJdmwrGAkeaGpuJY6Dk
-FOX-HD,tvbus://6V1BeSTzmwbFjqsiTchXJzUqCX9HBeAVtjGRQ4dFxuePFxAQSxt4gDyqJupoU
-FOX-SPORTS 1,tvbus://5WM8hWrEWfriwUfvG6iZzg1SUfiHpDB9MjxTgzx4epmsYpWkaS1AHbTGJmFei
-FOX-SPORTS2,tvbus://5UnGRCTsF25oDepBhRvbGVfbY7gLNsYRNstg9XXNBJ3rHD6xChPLFH1FaHos4
-SYFY,tvbus://5Zf6yHqYDMwRjMtyfCNpwRz39nTJoFFKB5DE1kjaf7Cr4fqhrBGYLmUz2GMYf
-TNT-HD,tvbus://5M3qwYx2Deuh6W9EtuoEYjRzGt86NtvGJC8g455hvGQzPcdQ13R4p1aZuVNs5
-NBC_Sports_Network,tvbus://5vbCuMUqDHn8rYmXTccotzGoBhrCuiubohdv2JTatky3z8B4WhsikSeF3j22y
-NBC_Sports_NorthWest,tvbus://5yU2596P87X8S5z2HXNtYAJ7Ud7HK6Nko8V3myXTDDzFzPzBU7wV1bqTM8EZT
-NBC_Sports_Washington,tvbus://6cmeiWvGQ8gEafg6KepmKBHegcL5PB2jPs74wKA1PuJDAKuqPhrUHKUWVqKVF
-MLB_Network,tvbus://5qD5b3kCL2Vu54sgfgv8sy7Rk7Msps1z43tBUuGPUY6G5J3VNjDsiG2nYyRbV
-Sky_Sport_F1_HD,tvbus://5r39vTXth3s7boCw31vQ6UedJdNKnvyRDMNVfXouSLDQWNGKkVoH9vWU7FGcV
-BOX_Hits,tvbus://7QET121P66rRS9qXdqcWzFv2UUAh2oGRMSYRpvPeeZZJ26bQFW
-高尔夫,tvbus://72n9jfDLRxDhiYMnDeN7xJcy4hVuF6hBaowTDZUdFK9rjHYEsP
-玉树电视,tvbus://8UqCAy3pMPPkgLiqt4ebSv29ZzFPGNaEDP16cfujDEnybu4Q2s
-惠州电视,tvbus://7u736QgCrveCRgg24B5Hr5naHpspLJgKhtV4bL9xi2RUD9pPyJ
-汕头一,tvbus://8MkyzNtmxHTnB5eafxXnooGthg6xdCcJKvgRgjFMpeq6cM1ABg
-清远综合,tvbus://7jsJBX6vbaua3VAqpanqjCaEgiHdLXGEhnWhKz6i9SLeixWRfX
-香港,#genre#
-翡翠,tvbus://7Q2moGnjSEAaarByLqndnMjwGG8TH7Ty52LLoZHdUGYu3aBLGU
-无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
-明珠,tvbus://7cNLEHAbLNR7n6FZ112Rxjh1otHUr3d3nQi3yaMcPQAmAbDEQD
-viutv,tvbus://86dmKKY1fitYB4WhoPCrMeZU4MBSsmssAbypzfgXFWzqenHaCo
-j2,tvbus://78gvcckGFWVYye7rfhwQ2WLDXGCRfRkbK1okZBAwwMpzwpz7F9
-无线财经,tvbus://7x5JeFQi7hed2bzQbP6HkDwDqRmFHzqwfU9TwRgv3XQN2RnV36
-TVB星河,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
-RHK31,tvbus://7bjwnQ19c4FqPhuyzyjfqkJDSN4uwoG9qaVD5Nxpe8qYBJ3e91
-RHK32,tvbus://7DPSN7PBzF3fnTn63uK77EBy3mwdGFtFdRFEiKHBXAmSxV9aB9
-凤凰资讯,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
-凤凰卫视,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
-凤凰香港,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
-香港開電視,tvbus://7JEqKzQsk8dCg4NJECaPc8n11ZYLunas4nDoJG56RT7G8hs2ib
-有線新聞,tvbus://89ka2EwsEPEhnFhvSE5J8QZE2LNzWQYJia8tHfzy5W3UUy8ZvP
-有線財經,tvbus://7DcYe89Q4q2TqYtGjoveed1sYgx896hzWuktkQoKdaoAkn2mCB
-有線娛樂,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
-電影第一,tvbus://6wmULb7jbo8gmr1f83G91LL9ZFigkbK4zjRhXoJkgS4Tosu2Ng
-有線18,tvbus://7oUMrgXgiLwP7pZqMF8kbHE2LbvN86QU76EK9ZmUHZ7ApwQnqS
-高清603,tvbus://8eGSqm9jaJgovLFX9BharkPDSKUVfRGyw41Jf4BzR3TUcHYmxS
-有線體育,tvbus://89YTdtbrYe4r5bdBCbzfhSa1kuUiKLukCK4wMYvy13WdCGP9FG
-香港衛視,tvbus://8j1LofGX7mWxFTR7fwxGVEwbntMrxNDwRxC1QBsZ5vi6E27ryZ
-澳門蓮花,tvbus://7i6SSVrjRFZeG2Heyvo9bhsX3aCBhGHVn7KZ3MpeXdadEciejz
-NOW新闻,tvbus://8ZmAhsQuXiawwzH9WSTxkS34cdmLShs44nrCAC7EABPSqRvUwm
-NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
-日韓,#genre#
-B_読売テレビ,tvbus://5uZzb6LHcprS1duLYwVMiPC6iqsHSE4sAxSSwYskaaPPvTjmQ4rUfWZwSWwoB
-NHK総合-大阪,tvbus://61EgTy58KnWL1wAh94Y6DKmV1FUkGB4a3CLn18sadyXxUa2rsHPSKXpH9C3d8
-テレビ东京,tvbus://667pfsL9S3ww3uvMgpdV7zZLYZAxr67UQ3CNzFUcaAgFaqmDEhqrxDyNSj2jA
-テレビ朝日,tvbus://6fBCXJuiiC8eX12Tx81AYnpHekbnKU9RPwGb1ScqDD45jHjxqyoVT3Gkuukvr
-TBS,tvbus://5Vjywv1fU96MbjXnNrwHzowoayFb3mktLWmJkot3u7iSpBjrViSnq8GoncUtZ
-日テレ,tvbus://6AQNjRjcFrR72CU3eRhqJWU9RR3oMCghGdc1nmw8SBZVAi9Y4eBVwnbBWAUM8
-NHKEテレ东京,tvbus://6AB1PG7DnCaVEwkjCSTox34NQ7LXe4syqxpdbfxBAPk8An1yXVXaiEDQi3ywQ
-NHK総合-东京,tvbus://5WyAaU8VdjP4CRpLwJ1ujp5KqzkjYcjsyc7zuRQ2cm5oUCFPegBgxBNCGQPVP
-NHK-World,tvbus://6fJBEHjG9AZwVERMRNof5rLB6Xy2efAmuSadSCc3pG6TSeHgvDrAp8curWfBE
-J SPORTS 1,tvbus://5P19YaVCrBTdG3hSy3AuRC6dzuRFWCEvP9UHtjdCxzvQqyiQ5pDYtbMS6NUca
-J SPORTS 2,tvbus://5pQD24S4466A139yM6y3fPrBkPdV7chyhEJ8y4bXbX2Qv9JEGHAdMHRCx3CDE
-J SPORTS 3,tvbus://6dADDkTGu2oiwREWcP93w5nGscSVfZjaXEBA5dAC92XEevHjPSqYrY3XL6ST4
-J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz
-BS日本映画専门ch,tvbus://6VuUX4odYnUAmSD5WDZGxS92cfWU7xJBxyosdX9Qh8jDsiw4SW3FahXqGjQPw
-ディズニーチャンネルHD,tvbus://6iZwXxhca1TYs2qGH8zYhC5d9zHjqZSQGg71AVFirRC2f8cLUQ1HyhdGmEoJH
-BSアニマックス,tvbus://5segWTSriJfRcv76Z2Hofi585YQnGbjxJjtVb1ewms8vT8pdvHRp17nhYXGE3
-グリーンチャネル,tvbus://6DWKqDakTyzNgUEqH7ZtdsqMLRMWZdGPMzCaRnQ9qMsvpBhy2cUzHnh1Xu3ff
-ミュージックジャパンTV,tvbus://6SFSB9fvS9GLPpKFBuQ9SpFYUfZMLyra7AcgsPrR51J1wC8Dtjo7sBjjdD6f6
-ゴルフネットHD,tvbus://6KQDTL9cCG2SkcN6C5UvJPS49eXvAmyDuMTBLzvpEd2DwU7r8bJaAuRr8ft9f
-时代剧専门chHD,tvbus://5fXkc6zyYPFSPgawJVBwC95hpwW5gwU2Fo5yZPuApDQEt5Z1mxbbxMgn7NyVF
-ホームドラマCH,tvbus://5zoQNNLesZx75s2xDW5uhM1kFgRttsbdKF4vbveRFyihk1LmfxxnJZmWVrkwr
-スカイA,tvbus://5mVSNMW8UQo2fQnofGoyfiroTmxJRYGtrgzzuZgJTgXg71EYtVWktKJzSUZY9
-日テレジータス,tvbus://6GSqc5Q4pQQS321bvnpsGPcpR8gsWyqiLvnwtgRNYXGXDtyNbk1j98sKpxhBm
-TOKYO　MX,tvbus://5y3EEmBrAkGfDatKY3UWcEiEGZs82o1736F2bn8dgR6syczsLcZKKHu1YLsi8
-フジテレビ,tvbus://6GM4HB3KGPkfqHJxe6SRcSs4bCoH4KFjmtVyo4ds5TtAMSRKU8Linmx4ep66F
-放送大学,tvbus://6SG3XcJiwzBjinpgf6fNQuXMLe5XV7VrqBkwdHaoaZBNDbqYp2NXz9hsC3kb3
-WOWOWライブ,tvbus://6edoiaKsdcjLzc5ydL1PWbQVfDV8oo7pvFYLoETEnevgLLWJH7hoRiNFULWhk
-Box_Nation_HD,tvbus://6sZNnW8dgrQuj6cgd3axzxrqL3RFmNAsLr4WYCdJYbzoSsdtWD
-ESPN_2,tvbus://6iZQm1AfXmG3nDAQhXf9rH7Gagxn7fA367e1wJSa371KdJPBrPsngDXwqYitY
-NBC_Sports_Bay_Area,tvbus://5UjyRokthaJxm9YN4gjSXb7WUsqntRYCrietzqmYH8pV6hFsFspS3ChtTnC4p
-DISCOVERY|HD,tvbus://66ZJBnoErjPriZPjTocXRVY8ZvdC9etLK7nw2uiWSHbRrbTEt2QJv4fwrJ66k
-DISCOVERY_SCIENCE|HD,tvbus://6isYQLdajB982fw8TD1CtXUobrwiLwdkeUqAht3ao9SJL6K42u5kURdrxKKoY
-ESPN_U,tvbus://6CXH3BcEshFEHfLi2gbGoSYKUpFDMvzDJTFvkbQEuhwVrCCsHcYy6Pvn9sqSY
-Food_Network|HD,tvbus://63mpnHvZ15wqSgjqNgSRWwtVnbosH2HbbS92JNJjyueCEAbe7GV8KpEmucqFs
-CBC_MONTREAL|SD,tvbus://5waVtfTgFcUpHNqqzmv6QfEEMS7ZkiF3w7FVzRKNxu4umjzb5jhzfxJAhEEyR
-A&E|HD,tvbus://5fk73TgoguKyC6p5p45o4jsrwB7Czi6K7ff633TxFjbBrDLiAi7wEEfUVVTMo
-CTV_TWO|SD,tvbus://64Qyaatv3ewoVcbmU7xDUMS5pqpoyPJbXi9otr4av4bDoy1iE8hyJx8LKkHf7
-CTV_NEWS|SD,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
-CTV_MONTREAL|SD,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
-BeIN_Sports_1,tvbus://7Yi8JmBCpKqZNSogAhqL5PB8pwwz8d2dciH77v1953XRG7jbgj
-BeIN_Sports_2,tvbus://7m68nZSWv4vyHF1yK7E3NEGz3hsZCBiZ4zkzgF4FXvYVNu8YXo
-BeIN_Sports_3,tvbus://8eCFGtMJDbYfsg42pMBfAumqs6Xbe5WHaequ7pKoP2TgzFMjTr
-BeIN_Sports_4,tvbus://7M35b6Eb9mbg4AFm31tS6QxjDDx29EEgMsJcAMAdvyVzWdQPMs
-BeIN_Sports_5,tvbus://871xJNPobVv5fwDLDkra7wtsfV3q4xySGrQCZ6W5kyeWCvcx8c
-BeIN_Sports_6,tvbus://75EjZerDcZJFyZ6SXW6fS6GpzoNrGsheXbotd2ebLbVTqSjg5E
-BeIN_Sports_7,tvbus://7r68jQnHv7XPYyrRQCANFgXmefEkXS2J1oehKFdPg6F8rUANmx
-BeIN_Sports_8,tvbus://7ayiKwY8EPk8mFXaUVjf7GZqa8tJuMykuEf7cxUM5fgWhvuhgn
-BeIN_Sports_9,tvbus://73JbXAZVp8QFR2eWqVDeHJQiuU4q7BL84RyK6agGHgijjgVdRY
-BeIN_Sports_10,tvbus://7TWVo6h2AjFoucPY47vnCNd2d6aj7wnESkSKq8qui1zpohATye
-BeIN_Sports_11,tvbus://7nVRrtJVtrWx9hmXfFom7qpQpC8JKybDkaSVAgXcXFDkMZbrwr
-BeIN_Sports_12,tvbus://6vuuVvdQJFhrJwQPC2YpjEZZrUXJZpqYT6xRcNFnvzgA1MUeG4
-CGTN,tvbus://5gcCXJny6WJxcsi9Ez3ifrtmZKRgXf8jV9CrjcD614uKn6GPzHig2kuWPHKH2
-SKY_SPORT_PREMIR_LEAGUE,tvbus://62usnhPnV7cvZrWWFe3HdGcbfjFT1syaWggbZL9fnCccug6oEEoqMFrCd7nPP
-SKY_SPORT_GOLF,tvbus://6NuX7LUN4gHbpFF6GiXPtxZ951tewYcPaUyrnRDRSrzKFYKRaHgToBm84QdK4
-SKY_SPORT_ACTION,tvbus://5RtzoAvviFBn7yG5rKS84taK1EPRCaqGSV5SnM4kuXCNMPjVkxs88cC2HEkGP
-SKY_SPORT_CIRKET,tvbus://5fno42FX8Z7bAHDTre2MahV5NGwdp4VxqPffbAHk2v2jAacN6JBW5TAXF9hdU
-SKY_SPORT_MAIN_EVENT,tvbus://5pAqJiETjFUJFCwhkQzDvNkN3cPadVv6XPiKMrqA8r1DpLgxswrz9DurkN4jR
 
 電影©輪播,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -602,3 +449,63 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 相声小品,http://auney.gearhostpreview.com/huya.php?id=11336593
 王牌对王牌,http://auney.gearhostpreview.com/huya.php?id=11601961
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+
+TEST,#genre#
+BLUE ANT EXTREME,p2p://fccs.123178.top:9806/60441771000d4807000e774ad2f62e16.ts
+Comedy Central Asia,p2p://fccs.123178.top:9806/6044183b000d06f700118c4956df7f03.ts
+CatchPlay電影台,p2p://fccs.123178.top:9806/6044191d000d8b620014ff3bef2f4594%20.ts
+WakuWakuJapan,p2p://fccs.123178.top:9806/604419f4000340840018447096a9f004.ts
+歐洲Euronews,p2p://fccs.123178.top:9806/60469e39000981f109ecf392ea2309d5.ts
+三立綜合台,p2p://fccs.123178.top:9806/60441aa3000729ad001af109e515adad.ts
+三立戲劇台,p2p://fccs.123178.top:9806/60441b4f00036f62001d8ff40f884e87.ts
+靖天歡樂,p2p://fccs.123178.top:9806/6045b810000a9ac50669e3b2b61b5383.ts
+靖天日本台,p2p://fccs.123178.top:9806/6045b8aa000389cf066c3b7385e82ede.ts%20
+靖天資訊台,p2p://fccs.123178.top:9806/6045b93800071301066e670ba6925741.ts
+靖洋戲劇台,p2p://fccs.123178.top:9806/60441bcb000e6baf001f77240fd6acd8.ts
+靖天國際台,tvbus://4HxmhKpX7ngoKLicSdu6CTuhA2yst2iafXcjEQ7By5VCK29VrE
+靖天電影台,p2p://fccs.123178.top:9806/6045b9cc00094ab70670a9bc88048a82.ts
+超級電影,tvbus://3uGeAYybRPtoawE4HvaqmwLp6UFmbMUd22GMxRLwfdW7fBUY8r
+天映電影,p2p://fccs.123178.top:9806/60441c660009af940021d366383a86ea.ts
+星衛電影 HD,p2p://fccs.123178.top:9806/60494c90000347391465f5d2b8473dbe.ts
+美亞電影台,p2p://fccs.123178.top:9806/60494bf1000472fc14638907b18fe55b.ts
+光影歐洲,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
+華藝影劇,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
+華藝MBC綜合,p2p://fccs.123178.top:9806/604421d400072b6600370871d6641107.ts
+星衛娛樂台,p2p://fccs.123178.top:9806/6044229300000d0a0039f0b6a59d1511.ts
+TVBS精彩,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
+HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
+龍華影劇,p2p://fccs.123178.top:9806/604347a3000cc1fe06c2a567b371c0d6.ts
+龍華電影,p2p://fccs.123178.top:9806/604426fa000c13eb004b26236e73affa.ts
+龍華洋片,p2p://fccs.123178.top:9806/6044287d000e2bb500510e64fec426ab.ts
+龍華戲劇,p2p://fccs.123178.top:9806/60442a110002751300573584bb335a71.ts
+龍華偶像,p2p://fccs.123178.top:9806/60442ac30006b54f0059edebe8733672.ts
+EYETV戲劇,p2p://fccs.123178.top:9806/60442b6d000654ae005c85e289945252.ts
+愛爾達影劇台,p2p://fccs.123178.top:9806/6044382f0001bdea008e5a851f8cf009.ts
+愛爾達綜合台,p2p://fccs.123178.top:9806/60689fa0000c9dae134f712965a8f823.ts
+愛爾達體育1台,p2p://fccs.123178.top:9806/6044394f000bdf980092c21d614c13c6.ts
+愛爾達體育2台,p2p://fccs.123178.top:9806/60443b320005c061009a1f44d1793932.ts
+愛爾達體育3台,p2p://fccs.123178.top:9806/60443bfe00066777009d3c4f69ab187b.ts
+霹靂台灣台,p2p://fccs.123178.top:9806/60443eff000b560c00a8f97ad079a022.ts
+Travel 旅游频道,p2p://fccs.123178.top:9806/604944bf0002e33c14476d50e1deb4e1.ts
+Motorvision TV,tvbus://3dqTjatGUZKB4T8ZAQKHJihA6EccpYyhJH3oPSiBSrogxkmWHo
+龍華動畫,p2p://fccs.123178.top:9806/6044594300037550010f9116e9856cd9.ts
+博斯魅力,p2p://fccs.123178.top:9806/60445a120003530d0112b9a5dc60ca35.ts
+Eleven運動台1,p2p://fccs.123178.top:9806/60446a54000b4ef801523d80af6dda12.ts
+Z 頻道,p2p://fccs.123178.top:9806/60446c7f000b970f015ab58bf1266ed0.ts
+Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
+Eleven运动台2,p2p://fccs.123178.top:9806/60447228000e0e420170d2547df9954a.ts
+NHK World HD,p2p://fccs.123178.top:9806/6044741d0000e8b9017873ff81c638cb.ts
+美國高爾夫球,p2p://fccs.123178.top:9806/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p2p://fccs.123178.top:9806/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p2p://fccs.123178.top:9806/604477b3000746210186779063f54d2a.ts
+博斯網球,p2p://fccs.123178.top:9806/6044783c0007f05c01888ee3506bef35.ts
+博斯運動1台,p2p://fccs.123178.top:9806/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動 II,p2p://fccs.123178.top:9806/6044799300093dbb018dcb11ecf6cc03.ts
+靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
+靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
+BOOMERANG,p2p://fccs.123178.top:9806/60447a4a00022e630190941a11afdf8e.ts
+靖天映畫,p2p://fccs.123178.top:9806/6045ba850003d28406737afe6daf6f4d.ts
+愛放動漫,p2p://fccs.123178.top:9806/60447b1e000e9a430193d36877b2a95b.ts
+曼迪日本台,p2p://fccs.123178.top:9806/6068a12900029e3a13556dc2ad58c3d5.ts
+Dreamworks,p2p://fccs.123178.top:9806/60447d38000deb8b019c08cb6ec7c4d9.ts
+Animax HD,p2p://fccs.123178.top:9806/60447df7000cbc13019ef29677465e40.ts
