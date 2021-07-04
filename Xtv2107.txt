@@ -85,6 +85,7 @@ TVBS欢乐台,rtmp://59.124.75.130:1935/sat/tv421
 中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立台湾台,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4ab522292acf55d9a26c895a5ea0149594d94a22ab9c6af5070f2
 三立都会台,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
 爱尔达影剧,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
 爱尔达综合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts八大综合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts纬来综合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
@@ -197,9 +198,14 @@ Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 
+Bein max 11 HD,http://8.anbdaouras.xyz/live/6262622200/index.m3u8
+
+FOXSports,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+FOXSports2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 FOXSports2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 FOXSports3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 ASTRO SPORT 1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
