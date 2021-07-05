@@ -189,35 +189,40 @@ CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/40
 CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
+FoxSports2 77,http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+FoxSports3 77,http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+FoxSports1 77,http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+FOXSports1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOXSports1 185,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+FOXSports2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOXSports2 185,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+FOXSports3 185,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FOXSports3 cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+BT Sports 1,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+BT Sports 2,http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+博斯运动2台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-愛爾達體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 纬来体育台,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
 
-Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 
 Bein max 11 HD,http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 
-FOXSports,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-FOXSports2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-FOXSports2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-FOXSports3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-ASTRO SPORT 1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASTRO SPORT 4,http://159.192.73.198:1072/astro4
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#p2p://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
 FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.tsFOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
 WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
@@ -263,6 +268,8 @@ BBCEarth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
 Discovery,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 Discovery,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 Disney,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
+动物星球,http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
+
 动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 动物星球,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
