@@ -70,17 +70,15 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 台灣©頻道,#genre#
+民視第一台HD,http://www.ubvip1688.com/ublive/5b53fe51d6f96db0.m3u8
+民視,http://www.ubvip1688.com/ublive/f56cdbb716f9e0af.m3u8
+民視台湾台,http://www.ubvip1688.com/ublive/1572702e86ad74c5.m3u8
+中视,http://www.ubvip1688.com/ublive/189236c85a9e18b9.m3u8
+中视经典,http://www.ubvip1688.com/ublive/287c5e7f1ad636df.m3u8
+中视菁彩,http://www.ubvip1688.com/ublive/0dbbcc64bbfeda67.m3u8
+华视,http://www.ubvip1688.com/ublive/636da9c9179ac2bb.m3u8
+台视,http://www.ubvip1688.com/ublive/632b4e0cd23855e4.m3u8
 TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
 TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
 
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
